@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on Shopify Projects
-- 🌱 I’m currently learning Liquid architecture
+- 🌱 I’m currently learning Webflow advanced topics
 - 💬 Ask me about Shopify Store Themes
 - 📫 How to reach me: Check out my <a href="https://pitechs-portfolio.webflow.io/">portfolio!</a>
 - 😄 Pronouns: He/Him
